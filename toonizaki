@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="JOVENES Y ADULTOS",Toonizaki
 https://stream-linkyprojects.linky.com.co/hls/toonizaki.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="JOVENES Y ADULTOS",Toonizaki (Señal 2)
+https://xhateaec.com:8800/hls/Haruka/Haruka/0808a4a796ac5a10be48b2b1887f5b22/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdMfphG.jpg" group-title="JOVENES Y ADULTOS",TBS Sur
 https://acl-server.linky.com.co/hls/toonizaki2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w06CBI2.png" group-title="JOVENES Y ADULTOS",TBS Panregional
